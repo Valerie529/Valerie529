@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Valerie529
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on anything!!
 - 📫 How to reach me valerie0879@yahoo.com
 
